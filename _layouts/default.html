@@ -7,13 +7,20 @@
 
     {% include header.html %}
 
+<!-- The Cayman theme has the footer within section.main-content -->
+    <section class="main-content">
+    {{ content }}
+
+<!-- Jekyll template default wrappers around Content
     <div class="page-content">
       <div class="wrapper">
         {{ content }}
       </div>
     </div>
+-->
 
     {% include footer.html %}
+  </section>
 
   </body>
 

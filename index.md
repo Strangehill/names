@@ -4,8 +4,8 @@ layout: default
 
 
 
-    <section class="main-content">
-      <h3>
+
+<h3>
 <a id="a-list-of-names" class="anchor" href="#a-list-of-names" aria-hidden="true"><span class="octicon octicon-link"></span></a>A List Of Names</h3>
 
 <ul>
@@ -28,6 +28,3 @@ layout: default
 <li>Aketzali - Beautiful and clear water, Nahuatl</li>
 <li>Ameyatzin - The fountain of love, Nahuatl</li>
 </ul>
-
-
-    </section>
