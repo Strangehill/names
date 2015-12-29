@@ -7,21 +7,21 @@ layout: default
 <a href="https://github.com/Strangehill/names/edit/gh-pages/index.md" style="float:right;">Edit this List</a>
 
 
-- Ada
-- Alicia
-- Alice
-- Alyssa
-- Amelie
+- Ada - noble, nobility, German
+- Alicia - noble, Spanish variation of Alice
+- Alice - noble, German
+- Alyssa - noble, English variation of Alicia
+- Amelie - work, French variation of Amelia
 - Atziri - lluvia de estrellas, Maya, source: Quetita
-- Celeste
-- Emily
+- Celeste - heavenly, Latin
+- Emily - rival, Latin
 - Heidi, Hayde, Heidie
 - Izel - Unique, from Nahuatl
-- Lea, Leah
-- Lluvia
-- Natalie
-- Nora - honor, Latin
-- Penelope
-- Zoe
+- Lea, Leah - weary, hebrew
+- Lluvia - rain
+- Natalie - birthday of the lord
+- Nora - light,honor, Latin
+- Penelope - weaver, Greek
+- Zoe - life, Greek
 - Aketzali - Beautiful and clear water, Nahuatl
 - Ameyatzin - The fountain of love, Nahuatl
