@@ -21,8 +21,6 @@ layout: default
   - lluvia de estrellas, Maya, source: Quetita
 - Celeste
   - heavenly, Latin
-- Emily
-  - rival, Latin
 - Heidi, Hayde, Heidie
 - Izel
   - Unique, from Nahuatl
@@ -38,9 +36,5 @@ layout: default
   - weaver, Greek
 - Zoe
   - life, Greek
-- Aketzali
-  - Beautiful and clear water, Nahuatl
-- Ameyatzin
-  - The fountain of love, Nahuatl
 - Beatrice
   - A meaning bringer of joy - Dante's guide through Paradise in the "Divine Comedy"
