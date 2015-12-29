@@ -28,8 +28,6 @@ layout: default
   - weary, hebrew
 - Lluvia
   - rain
-- Natalie
-  - birthday of the lord
 - Nora
   - light,honor, Latin
 - Penelope
