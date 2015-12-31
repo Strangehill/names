@@ -36,3 +36,7 @@ layout: default
   - life, Greek
 - Beatrice
   - A meaning bringer of joy - Dante's guide through Paradise in the "Divine Comedy"
+- Jacob
+  - Cleopatra
+  - Annety
+  - Benonio
