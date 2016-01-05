@@ -32,6 +32,8 @@ layout: default
   - light,honor, Latin
 - Penelope
   - weaver, Greek
+- Valerie 
+  - Strength, Latin (see Amy Winehouse track)
 - Zoe
   - life, Greek
 - Beatrice
