@@ -16,14 +16,8 @@ layout: default
 #### Ada
   - noble, nobility, German
 
-##### Alicia
-  - noble, Spanish variation of Alice
-
 ##### Alice
   - noble, German
-
-###### Alyssa
-  - noble, English variation of Alicia
 
 ##### Amelie
   - work, French variation of Amelia
@@ -34,19 +28,11 @@ layout: default
 ### Celeste
   - heavenly, Latin
 
-#### Heidi, Hayde, Heidie
-
 ### Izel
   - Unique, from Nahuatl
 
 #### Lea, Leah
   - weary, hebrew
-
-#### Lluvia
-  - rain
-
-##### Nora
-  - light,honor, Latin
 
 ### Penelope
   - weaver, Greek
@@ -60,7 +46,4 @@ layout: default
 ##### Beatrice
   - A meaning bringer of joy - Dante's guide through Paradise in the "Divine Comedy"
 
-##### Cleopatra
-
-Annety Benonio
 
