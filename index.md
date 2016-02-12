@@ -6,17 +6,21 @@ layout: default
 <a id="a-list-of-names" class="anchor" href="#a-list-of-names" aria-hidden="true"><span class="octicon octicon-link"></span></a>名單</h3>
 <a href="https://github.com/Strangehill/names/edit/gh-pages/index.md" style="float:right;">Edit this List</a>
 
+### Penelope
+  - weaver, Greek
 
+Peony
+  - 牡丹
 
-#### 姚絮允
+## 姚絮允
 
-#### 姚絮棠
+### 姚絮棠
 
-#### 姚絮智
+### 姚絮智
 
 #### 姚絮培
 
-#### 姚絮茵
+### 姚絮茵
 
 
 
@@ -27,10 +31,10 @@ layout: default
   - noble, German
 
 ##### Amelie
-  - work, French variation of Amelia
+  - work
 
 ##### Atziri
-  - lluvia de estrellas, Maya, source: Quetita
+  - lluvia de estrellas, Maya
 
 ### Celeste
   - heavenly, Latin
@@ -41,16 +45,12 @@ layout: default
 #### Lea, Leah
   - weary, hebrew
 
-### Penelope
-  - weaver, Greek
-
 ##### Valerie 
-  - Strength, Latin (see Amy Winehouse track)
+  - Strength, Latin
 
 ##### Zoe
   - life, Greek
 
 ##### Beatrice
   - A meaning bringer of joy - Dante's guide through Paradise in the "Divine Comedy"
-
 
